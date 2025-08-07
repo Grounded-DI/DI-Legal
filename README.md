@@ -1,3 +1,5 @@
+#DeterministicIntelligence #DI #Scroll91 #GroundedDI #MSWESQ
+
 # ⚖️ Grounded-DI/DI-Legal
 
 **Deterministic Legal Systems for Safe AI Use in Law**
