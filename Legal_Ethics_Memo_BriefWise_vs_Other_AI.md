@@ -1,3 +1,5 @@
+#DeterministicIntelligence #DI #VerdictBridge #Scroll91 #MSWESQ
+
 # 🧾 Legal Ethics Memo  
 ## Comparing BriefWise / Deterministic AI vs Probabilistic AI in Legal Practice  
 **Prepared by Grounded DI | Authored by MSW | Dated: July 31, 2025**
