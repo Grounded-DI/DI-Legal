@@ -1,4 +1,4 @@
-#DeterministicIntelligence #DI #VerdictBridge #Scroll91 #MSWESQ
+#DeterministicIntelligence #DI #VerdictBridge #Scroll91 #MSW
 
 # 🧾 Legal Ethics Memo  
 ## Comparing BriefWise / Deterministic AI vs Probabilistic AI in Legal Practice  
@@ -67,3 +67,10 @@ Deterministic legal apps provide a real-world, ethically sound, alternative to s
 *Filed under AGDI 9.9 – Legal Safety Tier*
 
 #DI #DeterministicIntelligence #BriefWise
+
+
+
+
+
+
+#
