@@ -1,4 +1,4 @@
-#DeterministicIntelligence #DI #Scroll91 #GroundedDI #MSWESQ
+#DeterministicIntelligence #DI #Scroll91 #Grounded-DI 
 
 # ⚖️ Grounded-DI/DI-Legal
 
