@@ -45,7 +45,7 @@ For its stated slip-and-fall scenario, the VerdictBridge artifact records:
 - Defense verdict risk: 21%
 - Comparative-fault risk: 5–10%
 
-These values are the artifact’s forecast output for its assumed facts and listed authorities. They are not an observed trial result, benchmark, or independent legal opinion.
+VerdictBridge generated these forecast values for the Camden County scenario using the assumed facts and listed authorities.
 
 ### Ethics and source boundaries
 
