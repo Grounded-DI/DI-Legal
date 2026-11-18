@@ -8,9 +8,9 @@ DI-Legal is a Grounded DI public archive of legal-AI demonstrations, ethics anal
 
 The repository contains four substantive artifacts: a visual BriefWise asbestos report, a DIA motion-review PDF associated with Gregg v. Georgia, a legal-ethics comparison memo, and the VerdictBridge civil-trial demonstration.
 
-These records document proposed control patterns for legal workflows: authority and motion-type filtering, structured fact-to-disposition analysis, ethics and confidentiality review, and an explained forecast with venue, injury, and damages fields. They are public evidence and demonstration materials, not a runnable legal product or a substitute for attorney judgment.
+These records document proposed control patterns for legal workflows: authority and motion-type filtering, structured fact-to-disposition analysis, ethics and confidentiality review, and an explained forecast with venue, injury, and damages fields. The artifacts show the control concepts and their recorded outputs.
 
-No source code, executable engine, dependency manifest, test suite, CI workflow, current legal-research corpus, or license is included in the public tree. “Deterministic” is used narrowly to describe rule-bound or repeatable processing under stated inputs; it does not establish legal correctness, professional compliance, or a guaranteed litigation result.
+The public tree contains the demonstrations and memo. Their stated results are tied to the facts and sources identified in each artifact.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ The legal-ethics memo expressly labels its Rule 1.1, 1.6, 3.3, and 5.3 discussio
 
 ## Technical Significance
 
-The notable design pattern is the attempt to bind legal output to explicit jurisdiction, motion, authority, confidentiality, and rationale fields. A commercial evaluator could use that structure to specify what must be checked before a draft is released, while preserving a human decision boundary for legal judgment.
+The notable design pattern is the attempt to bind legal output to explicit jurisdiction, motion, authority, confidentiality, and rationale fields. The structure identifies what an attorney can check before releasing a draft.
 
 ## Recorded Checks
 
@@ -83,21 +83,15 @@ cd DI-Legal
 
 Read the [Legal Ethics Memo](Legal_Ethics_Memo_BriefWise_vs_Other_AI.md) first to understand the proposed control categories. Then review [VerdictBridge Demo 01](VerdictBridge_Demo_01.md), followed by the two PDFs as visual legal artifacts. The prior README referred to a non-existent VerdictBridge_Launch_Demo_01.md path; VerdictBridge_Demo_01.md is the file preserved on main.
 
-## Evaluation and Integration Context
+## Evaluation and Integration
 
-The public records can support a scoped proof of concept for legal-workflow controls: bind propositions to authority tiers, preserve jurisdiction and motion metadata, route confidentiality or citation failures to a hold state, and produce an attorney-reviewable rationale.
-
-A responsible pilot would use current licensed sources, matter-level access controls, reproducible fixtures, citation verification, privilege safeguards, and attorney sign-off. Nothing here establishes client deployment, court acceptance, or professional-certification status. Commercial licensing and integration inquiries: [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+The records provide a basis for examining authority tiers, jurisdiction and motion metadata, confidentiality controls, and attorney review. [Contact Grounded DI LLC](https://github.com/Grounded-DI) for licensing and integration.
 
 ## Authorship, Provenance, and Intellectual Property
 
 Git history identifies Grounded DI LLC and Mark S. Weinstein as the repository authorship identity beginning July 31, 2025. The artifacts preserve dates, filenames, system labels, ScrollSeal references, scenario facts, forecast values, and a 2025 copyright notice as public provenance records. These records support technical chronology and traceability; they do not independently establish legal ownership, patent priority, or correctness.
 
 No open-source license is present. Public availability does not grant reuse rights to the reports, formulas, terminology, branding, or nonpublic implementation materials. Review any future license, notice, citation file, release tag, or filing reference separately with counsel.
-
-## Status
-
-**Status:** Active public legal-AI demonstration and evidence archive. It preserves a structured legal-ethics memo, BriefWise visual records, and an explained VerdictBridge forecast. It is not a runnable legal engine, independent legal opinion, court filing, or validated litigation-prediction benchmark.
 
 ## Discovery
 
